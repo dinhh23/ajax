@@ -67,4 +67,4 @@ const display = (users) => {
     }
 }
 
-// getAll();
+ // getAll();
